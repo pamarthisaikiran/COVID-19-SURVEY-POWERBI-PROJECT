@@ -1,8 +1,7 @@
 Problem Statement
 The impact of COVID-19 on students has been significant, with the pandemic disrupting education and daily life for millions of students around the world. As a data analytics beginner, the objective of this assignment is to analyze the student survey dataset on the impact of COVID-19 and gain insights into how students have coped with the pandemic and adapted to online learning.
 
-Your Dashboard Should Include
-Use Advanced Power BI Visualisations and Filters.
+
 
 What is the average time spent on online classes, sleep, fitness and social media?
 
